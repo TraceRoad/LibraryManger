@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<weblogic-web-app xmlns="http://www.bea.com/ns/weblogic/90">
+
+<session-descriptor>
+
+<debug-enabled>true</debug-enabled>
+
+<persistent-store-type>replicated</persistent-store-type>
+
+<sharing-enabled>true</sharing-enabled>
+
+</session-descriptor>
+
+<context-root>/LibraryManger</context-root>
+
+</weblogic-web-app>
